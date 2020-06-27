@@ -1,2 +1,2 @@
 ## ती वाट ....
-![Alt Poem 1](ti_waat.jpg?raw=true "ती वाट ....")
+![Alt Poem 1](ti_waat.jpeg?raw=true "ती वाट ....")
