@@ -1,11 +1,2 @@
-## Poem 1
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-Line 1 
-Line 2
-
-```
+## ओली ती माती
+![Alt Poem 1](oli_ti_mati.jpg?raw=true "ओली ती माती")
