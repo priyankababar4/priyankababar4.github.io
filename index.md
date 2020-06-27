@@ -1,4 +1,4 @@
-## Peom 1
+## Poem 1
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -6,6 +6,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 Line 1 
-line 2
+Line 2
 
 ```
